@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T23:35:25.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="sWv5gHs6o_qJxOQRdwVL" version="15.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T23:36:45.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="EdWsq6MHBAov83VZ3jnn" version="15.6.0" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" background="none" math="0" shadow="0">
       <root>
@@ -134,6 +134,22 @@
         </mxCell>
         <mxCell id="AquEeyDMcPjP1CfcjLx6-25" value="&lt;font style=&quot;font-family: &amp;#34;calibri&amp;#34; ; color: rgb(35 , 56 , 98) ; direction: ltr ; letter-spacing: 0px ; line-height: 120% ; opacity: 1&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;vsdxID=3;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;;html=1;" vertex="1" parent="1">
           <mxGeometry x="509.99999999999994" y="1520" width="257.44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AquEeyDMcPjP1CfcjLx6-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000066;strokeWidth=6;" edge="1" parent="1" source="AquEeyDMcPjP1CfcjLx6-28" target="AquEeyDMcPjP1CfcjLx6-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1335" />
+              <mxPoint x="560" y="1229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AquEeyDMcPjP1CfcjLx6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000066;strokeWidth=6;" edge="1" parent="1" source="AquEeyDMcPjP1CfcjLx6-28" target="AquEeyDMcPjP1CfcjLx6-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1335" />
+              <mxPoint x="560" y="1420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AquEeyDMcPjP1CfcjLx6-28" value="&lt;b style=&quot;font-size: 20px&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;line-height: 1.1&quot;&gt;Navega por la&lt;br&gt;pagina web y&lt;br&gt;realiza&lt;br&gt;la Compra&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="253.50000000000006" y="1280" width="270" height="110" as="geometry" />
